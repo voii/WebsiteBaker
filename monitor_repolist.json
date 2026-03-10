@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Module 123",
+        "current_version": "2.8.0",
+        "last_change": "1764770534",
+        "dl_id": "00CB2195",
+        "modified_when": "1772703275",
+        "visible": "1",
+        "install_title": "Module 123 - title",
+        "install_directory": "module123"
+    },
+    {
+        "title": "Next Module",
+        "current_version": "2.12.0 Fix",
+        "last_change": "1527356233",
+        "dl_id": "067D44C4",
+        "modified_when": "1527005079",
+        "visible": "1",
+        "install_title": "Next Module 234",
+        "install_directory": "next_module"
+    }
+]
